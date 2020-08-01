@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.markerButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.markerButton img {
+  width: 20px;
+  height: 20px;
+}
+
+h1 {
+  box-sizing: border-box;
+  position: absolute;
+  padding: 2rem;
+  background-color: transparent;
+  text-align: center;
+  z-index: 2;
+}
+
+h2 {
+  font-size: 1rem;
+}
+.popup {
+  cursor: auto;
+}
+
+@media only screen and (max-width: 900px) {
+  h1 {
+    font-size: 1rem;
+  }
+}

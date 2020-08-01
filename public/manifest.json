@@ -1,0 +1,15 @@
+{
+  "short_name": "Aaron's Map Data",
+  "name": "using ReactMapGL to map earthquakes",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "https://aaron-map-data.netlify.com",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#000"
+}
