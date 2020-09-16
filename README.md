@@ -1,4 +1,4 @@
-# README
+# Earthquakes! 
 
 https://aaron-map-data.netlify.app/
 
